@@ -117,10 +117,10 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
+      company_name: "IT Labs",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Studing - 4month",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -130,10 +130,10 @@ import {
     },
     {
       title: "React Native Developer",
-      company_name: "Tesla",
+      company_name: "Portfolio",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Aug24 - 2023y ",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,7 +143,7 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
+      company_name: "NEtflix",
       icon: shopify,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
@@ -155,11 +155,11 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "JS Developer",
+      company_name: "Sudoku",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Aug22 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -198,20 +198,20 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "PLaneterium",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to discover space without going to the rocket in there made a lot of interesting models of plantes.",
       tags: [
         {
-          name: "react",
+          name: "Solar-System",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "BrainFunction",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "carbon-physics",
           color: "pink-text-gradient",
         },
       ],
@@ -219,9 +219,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Brain Function",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to discover the part of the brain and to now which part are used for.",
       tags: [
         {
           name: "react",
@@ -240,9 +240,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "iphone-dynamic-island",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A comprehensive company's phone with real dynamic islnad. ",
       tags: [
         {
           name: "nextjs",
